@@ -95,3 +95,83 @@ main {
   width: 24px;
   height: 24px;
 }
+/* writer css */
+.writers-container {
+  padding-top: 200px;
+  text-align: center;
+}
+.writers-container h2 {
+  font-family: Rotterburg Stylish FREE;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #c9ac8c;
+}
+.writers-container ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  height: 40px;
+  gap: 49px;
+
+}
+.writers-container a {
+  font-family: Steinbeck;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF99;
+
+}
+
+.writers-container a:hover {
+  color: #C9AC8C;
+}
+.card {
+width: 173px;
+height: 236px;
+top: 764.96px;
+left: 101.4px;
+border-radius: 15px;
+text-align: center;
+
+}
+.card h3 {
+  font-family: Steinbeck;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #C9AC8C;
+padding-top: 10px;
+}
+.card span {
+  font-family: Steinbeck;
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF99;
+
+
+}
+.statistic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 20px;
+
+}
+.statistic div {
+  color: white;
+}
+.statistic i{
+  width: 24px;
+height: 24px;
+
+
+}
